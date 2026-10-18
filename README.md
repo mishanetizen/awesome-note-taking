@@ -164,6 +164,7 @@
 - 📖 [MDLook](https://mdlook.com) ([GitHub](https://github.com/djosci/MDLook)) - Portable offline Markdown editor for Windows using WebView2, with live preview, dark mode, KaTeX math, and Mermaid diagrams.
 - 📕🍎🔁 [Mem](https://get.mem.ai/) - AI-powered self-organizing workspace for notes and knowledge. Available on web and iOS.
 - 📕🍎🔁 [MindMirror](https://mindmirror.app) - Note app for busy minds with AI search and smart organization. iOS available, Android coming soon.
+- 📖 [MySkills](https://myskills.info/) - Browser-based Markdown editor and PDF exporter. Paste from ChatGPT or any Markdown source, get a clean PDF. No account, no upload. `Proprietary`
 - 📕🔁 [MindWork](https://mindwork.it.com/) - A Cursor-like AI workspace for deep and focused personal knowledge management.
 - 📕🍎🤖🔁 [Notebook](https://www.zoho.com/notebook) - Mobile, web, and desktop app to take multiple forms of notes, from Zoho.
 - 📖🍎🔁 [NotePlan](https://noteplan.co) - Combines tasks, notes, and calendar all in one place. Available on Mac and iOS.
